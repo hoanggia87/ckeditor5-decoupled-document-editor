@@ -1,0 +1,1 @@
+# ckeditor5-decoupled-document-editor
